@@ -106,7 +106,6 @@
   - [On other platforms](#on-other-platforms)
   - [Disable rate limit protections](#disable-rate-limit-protections)
   - [Keep your fork up to date](#keep-your-fork-up-to-date)
-- [:sparkling\_heart: Support the project](#sparkling_heart-support-the-project)
 
 # Important Notice <!-- omit in toc -->
 
